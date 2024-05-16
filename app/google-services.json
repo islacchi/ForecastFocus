@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398198779171",
+    "project_id": "forecast-focus",
+    "storage_bucket": "forecast-focus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398198779171:android:59a8ccc5db9cf47a12f096",
+        "android_client_info": {
+          "package_name": "com.example.forecastfocus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo3TmGvIxDX3sz6SVWgKXhlNCmvgJBd1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
